@@ -24,14 +24,7 @@ import javax.validation.ConstraintViolationException;
  * AJAX-enabled applications. No outcomes will be generated from its methods
  * since handling is designed to be done inside one page.
  *
- * mdificacion 1 de martin
- * Modificacion 1 de vinicio
- * Modificacion  2 de vinicio
- * Modificacion 1 de vinicio  modificacion 2 de martin
- * 
- * 
- * Modificacion de vinicio
- * MOdificacionn de Martin
+ *
 Modificacion de vinicio
 Modificacion de martin
  */
