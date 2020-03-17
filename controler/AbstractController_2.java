@@ -25,8 +25,10 @@ import javax.validation.ConstraintViolationException;
  * since handling is designed to be done inside one page.
  *
  * Primera modificacion de martin
- * Segunda modificacion de Vinicio
+ * Segunda modificacion de martin
+ * Tercera modificacion de martin
  */
+
 public abstract class AbstractController_2<T> implements Serializable {
 
     private static final long serialVersionUID = 1L;
