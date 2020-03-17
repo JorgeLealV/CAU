@@ -24,8 +24,11 @@ import javax.validation.ConstraintViolationException;
  * AJAX-enabled applications. No outcomes will be generated from its methods
  * since handling is designed to be done inside one page.
  *
- * 
+ * Primera modificacion de martin
+ * Segunda modificacion de Vinicio
+ * Tercera modificacion de vinicio
  */
+
 public abstract class AbstractController_2<T> implements Serializable {
 
     private static final long serialVersionUID = 1L;
