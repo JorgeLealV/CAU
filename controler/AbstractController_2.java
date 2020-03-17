@@ -28,6 +28,7 @@ import javax.validation.ConstraintViolationException;
  * Segunda modificacion de Vinicio
  * Tercera modificacion de vinicio
  */
+
 public abstract class AbstractController_2<T> implements Serializable {
 
     private static final long serialVersionUID = 1L;
