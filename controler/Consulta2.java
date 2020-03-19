@@ -42,6 +42,8 @@ import javax.xml.ws.WebServiceRef;
 /**
  *
  * @author jleal
+ * 
+ * Esto es un feature de vinicio
  */
 @Named(value = "consulta1Controler2")
 //@SessionScoped 
